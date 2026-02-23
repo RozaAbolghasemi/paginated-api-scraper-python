@@ -43,7 +43,7 @@ Install dependencies:
 ```bash
 pip install requests pandas
 
-
+---
 ## Configuration
 
 Update the following variables inside the script:
