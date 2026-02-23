@@ -42,3 +42,13 @@ Install dependencies:
 
 ```bash
 pip install requests pandas
+
+
+## Configuration
+
+Update the following variables inside the script:
+
+BASE_URL = "https://example.com/api/endpoint"
+TOTAL_PAGES = 1000
+records_per_page = 10
+SAVE_FILE = "output_data.csv"
